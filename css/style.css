@@ -1,0 +1,62 @@
+body{
+    background:#333;
+    color: #fff;
+}
+.logo{
+    max-width: 9%;
+    padding-right: 3px;
+}
+.navbar{
+    border-bottom: 2px solid #fff;
+    background-color: #9b59b6;
+    opacity: 0.7;
+}
+#home-section{
+    background:url(./img/pexels-pixabay-326055.jpg) no-repeat center top;
+    background-attachment: fixed;
+    background-size: cover;
+    min-height: 700px;
+}
+#home-section .dark-oval{
+    background: rgba(0, 0, 0, 0.7);
+    min-height: 700px;
+}
+#home-section .home-inner{
+    padding-top: 150px;
+    padding-bottom: 50px;
+}
+#home-section .fas{
+    font-size: 30px;
+    background: #9b59b6;
+    color: #000;
+}
+.card{
+    background: #9027b988;
+}
+#explore-section{
+    background: #9b59b6;
+}
+#explore-main .fas{
+    font-size: 30px;
+    background: #9b59b6;
+     color: #000;
+    }
+    #boss-section{
+        background: #9b59b6;
+    }
+    #boss-main .fas{
+        font-size: 30px;
+        background: #9b59b6;
+         color: #000;
+    }
+#help-section{
+    background: #9b59b6;
+}
+#help-main .fas{
+    font-size: 30px;
+    background: #9b59b6;
+     color: #000;
+}
+#foot{
+    background: #9b59b6;
+}
